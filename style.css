@@ -1,0 +1,65 @@
+body 
+{background: url(dog.jpg) !important;
+font-family: arial;}
+
+h1
+{color: white !important;
+font-family: 'Fjalla One', sans-serif !important;
+font-size: 70px !important;
+text-align: center;
+background-color: aquamarine;
+margin-right: 40px;
+margin-left: 40px;!important;}
+
+p
+{margin: 30px;
+text-align: center;
+margin-left: 120px;
+margin-right: 120px;
+color: cadetblue;
+font-weight: bold;
+font-style: italic;}
+
+a
+{font-family: impact !important;
+font-size: 40px;
+text-align: center;
+color: crimson !important;
+text-align : center;}
+
+.animaux
+{padding: 20px;
+background-color: cornsilk;
+margin: 100px;
+border: solid 20px blueviolet;
+border-radius: 50px;
+box-shadow: 20px 20px 0px #291F71;
+display: inline-block;}
+
+.animals 
+{box-shadow: 20px 20px 0px #280F34;
+margin-top: 20px;
+margin-bottom: 20px;
+width: 40%;
+height: 40%;
+display:inline-block;}
+
+ul
+{font-family: impact;}
+
+.yellow
+{background-color: yellow;
+padding: 200px;
+margin: 100px;
+display: flex;
+position: relative;
+padding-top: 300px;}
+
+.rat
+{position: absolute;
+justify-content: center;
+padding: 10em;
+bottom: 10px;
+right; 10px;}
+
+
